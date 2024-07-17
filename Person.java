@@ -29,7 +29,7 @@ public class Person {
 
     public static void main(String[] args) {
         // Creating an object named Faith
-        Person Faith = new Person("Faith", 25, "123 Main St");
+        Person Faith = new Person("Faith Mutinda", 19, "123 Muthaiga Court");
 
         // Calling the printCurrentInstance method using the Faith object
         Faith.printCurrentInstance();
